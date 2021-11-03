@@ -1,4 +1,4 @@
-// The Literal Math Method Exercise
+
 // 1a
 let warmHugs = "Hi, I'm Olaf and I like warm hugs.";
 
